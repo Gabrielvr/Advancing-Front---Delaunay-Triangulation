@@ -1,1 +1,1 @@
-# Advancing-Front---Delaunay-Triangulation
+# Advancing Front - Delaunay Triangulation
